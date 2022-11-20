@@ -1,3 +1,3 @@
 lvim.plugins = {
-  -- "lunarvim/darkplus.nvim"
+    "folke/todo-comments.nvim"
 }
