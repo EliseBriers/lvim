@@ -1,0 +1,6 @@
+reload "user.plugins"
+reload "user.options"
+reload "user.keymaps"
+reload "user.icons"
+reload "user.dap"
+reload "user.treesitter"
