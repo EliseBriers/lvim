@@ -14,6 +14,7 @@ local options = {
     fileencoding = "utf-8", -- the encoding written to a file
     scrolloff = 0,
     sidescrolloff = 8,
+    spell = true,
 }
 
 for k, v in pairs(options) do
